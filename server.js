@@ -8,7 +8,7 @@
 *
 * Name: Abha Patel Student ID: 114329220 Date: 10-29-2023
 *
-* Published URL: https://lego-a3-jadorotan.cyclic.app
+* Published URL: https://magenta-walrus-tutu.cyclic.app
 *
 ********************************************************************************/
 
